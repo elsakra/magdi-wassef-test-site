@@ -1,0 +1,116 @@
+{
+  "company": {
+    "name": "Southaven Internal Medicine",
+    "tagline": "Dedicated to our patients since 1996",
+    "description": "Southaven Internal Medicine has been committed to providing our patients with the highest level of care in a friendly and comfortable environment. Our goal is to make our patients feel like they are family, focusing on preventative medicine, health screenings, and helping our community find solutions to the health challenges they face.",
+    "phone": "(662) 349-1999",
+    "email": null,
+    "address": {
+      "street": "7680 Airways Blvd.",
+      "city": "Southaven",
+      "state": "MS",
+      "zip": "38671"
+    },
+    "hours": {
+      "monday": "7:00am-5:00pm",
+      "tuesday": "8:00am-5:00pm",
+      "wednesday": "7:00am-5:00pm",
+      "thursday": "8:00am-5:00pm",
+      "friday": "7:00am-11:00am",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    }
+  },
+  "branding": {
+    "logo": "https://res.cloudinary.com/dil14r8je/image/upload/v1768681805/auto-site-builder/Magdi%20Wassef%20Test/image_0.jpg",
+    "primaryColor": "#2c5aa0",
+    "secondaryColor": "#ffffff"
+  },
+  "hero": {
+    "headline": "Dedicated to our patients since 1996",
+    "subheadline": "Southaven Internal Medicine provides the highest level of care in a friendly and comfortable environment. Our board certified physicians focus on preventative medicine and helping our community achieve the best possible state of health and well being.",
+    "cta": {
+      "label": "Pre Register",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Call Today",
+      "href": "tel:(662) 349-1999"
+    },
+    "backgroundImage": "https://res.cloudinary.com/dil14r8je/image/upload/v1768681808/auto-site-builder/Magdi%20Wassef%20Test/image_6.jpg"
+  },
+  "sections": {
+    "about": {
+      "headline": "About Us",
+      "content": "Southaven Internal Medicine has been committed to providing our patients with the highest level of care in a friendly and comfortable environment since 1996. Our goal is to make our patients feel like they are family. As a practice, we focus on preventative medicine, health screenings, and helping our community find solutions to the health challenges they face."
+    },
+    "services": {
+      "headline": "Our Services",
+      "description": "We provide comprehensive internal medicine services including preventative care, health screenings, telehealth appointments, patient portal access, and on-site laboratory services through American Esoteric Laboratories."
+    },
+    "team": {
+      "headline": "Meet Our Providers",
+      "description": "Our board certified physicians, Dr. Magdi Wassef and Dr. Mary Missak, have over 30 years of experience each in internal medicine and are dedicated to providing exceptional care to our patients."
+    },
+    "testimonials": {
+      "headline": "What Our Patients Say"
+    },
+    "contact": {
+      "headline": "Contact Us",
+      "description": "Ready to experience personalized healthcare? Contact us today to schedule your appointment or learn more about our services."
+    }
+  },
+  "navigation": {
+    "items": [
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "About",
+        "href": "/about"
+      },
+      {
+        "label": "Services",
+        "href": "/services"
+      },
+      {
+        "label": "How It Works",
+        "href": "/how-it-works"
+      },
+      {
+        "label": "Blog",
+        "href": "/blog"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      }
+    ],
+    "ctaButton": {
+      "label": "Patient Portal",
+      "href": "/patient-portal"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Southaven Internal Medicine. All rights reserved.",
+    "socialLinks": {
+      "facebook": "https://facebook.com/southaveninternalmedicine",
+      "instagram": null,
+      "linkedin": null
+    }
+  },
+  "seo": {
+    "title": "Southaven Internal Medicine - Quality Healthcare Since 1996",
+    "description": "Southaven Internal Medicine provides comprehensive internal medicine services in Southaven, MS. Board certified physicians offering preventative care, health screenings, and telehealth options.",
+    "keywords": [
+      "internal medicine",
+      "Southaven MS",
+      "preventative care",
+      "health screenings",
+      "board certified physicians",
+      "telehealth",
+      "patient portal"
+    ]
+  }
+}
